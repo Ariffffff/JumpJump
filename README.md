@@ -13,3 +13,7 @@ https://www.instructables.com/id/Jum-Jum-the-Jumping-Board/
 for 8mhz arduino read this
 "Minimal Circuit (Eliminating the External Clock)"
 https://www.arduino.cc/en/Tutorial/ArduinoToBreadboard
+
+
+Low power library by
+https://github.com/rocketscream/Low-Power
